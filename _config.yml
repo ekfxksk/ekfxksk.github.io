@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "최하규"
-  avatar           : "/assets/images/profile/me.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "기록을 가장어려워하는 개발자의 개발 기록지"
   location         : "Republic of Korea"
   email            : "ekfxksk@gmail.com"
