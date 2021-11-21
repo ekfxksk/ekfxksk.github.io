@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Introduce"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tag"
+    url: /tag/
+  - title: "Year"
+    url: /posts/
+  # - title: "Sitemap"
+  #   url: /sitemap/
